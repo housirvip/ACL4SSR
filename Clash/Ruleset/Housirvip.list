@@ -1,0 +1,19 @@
+# Housirvip 自用
+
+# docker
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.org
+DOMAIN-SUFFIX,docker.io
+
+# github
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.org
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,githubusercontent.org
+DOMAIN-SUFFIX,githubusercontent.io
+
+# linux
+DOMAIN-SUFFIX,debian.com
+DOMAIN-SUFFIX,debian.org
+DOMAIN-SUFFIX,debian.io
