@@ -30,7 +30,12 @@ DOMAIN-SUFFIX,2miner.com
 DOMAIN-SUFFIX,2miner.net
 DOMAIN-SUFFIX,2miner.org
 
-#nanopool
+# nanopool
 DOMAIN-SUFFIX,nanopool.com
 DOMAIN-SUFFIX,nanopool.net
 DOMAIN-SUFFIX,nanopool.org
+
+# nicehash
+DOMAIN-SUFFIX,nicehash.com
+DOMAIN-SUFFIX,nicehash.net
+DOMAIN-SUFFIX,nicehash.io
