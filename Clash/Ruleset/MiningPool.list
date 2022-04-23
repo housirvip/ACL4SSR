@@ -3,6 +3,34 @@
 # 币印
 DOMAIN-SUFFIX,poolin.me
 DOMAIN-SUFFIX,poolin.com
+DOMAIN-SUFFIX,poolin.one
+DOMAIN-SUFFIX,poolin.io
+DOMAIN-SUFFIX,poolin.net
+DOMAIN-SUFFIX,poolin.org
 
 # 鱼池
 DOMAIN-SUFFIX,f2pool.com
+DOMAIN-SUFFIX,f2pool.net
+DOMAIN-SUFFIX,f2pool.io
+DOMAIN-SUFFIX,f2pool.org
+
+# hive
+DOMAIN-SUFFIX,hiveos.farm
+DOMAIN-SUFFIX,hiveos.com
+DOMAIN-SUFFIX,hiveos.net
+DOMAIN-SUFFIX,hiveos.io
+DOMAIN-SUFFIX,hiveos.org
+DOMAIN-SUFFIX,hiveon.com
+DOMAIN-SUFFIX,hiveon.org
+DOMAIN-SUFFIX,hiveon.net
+DOMAIN-SUFFIX,hiveon.io
+
+# 2miner
+DOMAIN-SUFFIX,2miner.com
+DOMAIN-SUFFIX,2miner.net
+DOMAIN-SUFFIX,2miner.org
+
+#nanopool
+DOMAIN-SUFFIX,nanopool.com
+DOMAIN-SUFFIX,nanopool.net
+DOMAIN-SUFFIX,nanopool.org
