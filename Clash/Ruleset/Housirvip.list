@@ -17,3 +17,6 @@ DOMAIN-SUFFIX,githubusercontent.io
 DOMAIN-SUFFIX,debian.com
 DOMAIN-SUFFIX,debian.org
 DOMAIN-SUFFIX,debian.io
+
+# pve
+DOMAIN-SUFFIX,proxmox.com
