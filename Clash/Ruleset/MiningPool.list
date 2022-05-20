@@ -15,7 +15,7 @@ DOMAIN-SUFFIX,f2pool.io
 DOMAIN-SUFFIX,f2pool.org
 
 # hive
-DOMAIN-SUFFIX,hiveos.farm
+#DOMAIN-SUFFIX,hiveos.farm
 DOMAIN-SUFFIX,hiveos.com
 DOMAIN-SUFFIX,hiveos.net
 DOMAIN-SUFFIX,hiveos.io
