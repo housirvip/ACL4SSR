@@ -20,3 +20,7 @@ DOMAIN-SUFFIX,debian.io
 
 # pve
 DOMAIN-SUFFIX,proxmox.com
+
+# python
+DOMAIN-SUFFIX,pythonhosted.org
+DOMAIN-SUFFIX,pypi.org
