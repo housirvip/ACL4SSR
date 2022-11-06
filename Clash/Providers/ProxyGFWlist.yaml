@@ -3453,7 +3453,7 @@ payload:
   - DOMAIN-SUFFIX,mynumber.org
   - DOMAIN-SUFFIX,myparagliding.com
   - DOMAIN-SUFFIX,mypicture.info
-  # - DOMAIN-SUFFIX,mypikpak.com
+  - DOMAIN-SUFFIX,mypikpak.com
   - DOMAIN-SUFFIX,mypop3.net
   - DOMAIN-SUFFIX,mypop3.org
   - DOMAIN-SUFFIX,mypopescu.com
@@ -6251,8 +6251,12 @@ payload:
   - DOMAIN-SUFFIX,flzbcdn.xyz
 
   #华文电视
+<<<<<<< HEAD
   - DOMAIN-SUFFIX,ocnttv.com
 
   # VikACG
   - DOMAIN-SUFFIX,vikacg.com
   - DOMAIN-SUFFIX,picjs.xyz
+=======
+  - DOMAIN-SUFFIX,ocnttv.com
+>>>>>>> parent of 4e55c11 (去掉mypikpak代理)
