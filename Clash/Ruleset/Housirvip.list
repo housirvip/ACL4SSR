@@ -24,3 +24,6 @@ DOMAIN-SUFFIX,proxmox.com
 # python
 DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,pypi.org
+
+# pikpak
+DOMAIN-SUFFIX,mypikpak.com
