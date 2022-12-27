@@ -27,3 +27,6 @@ DOMAIN-SUFFIX,pypi.org
 
 # pikpak
 DOMAIN-SUFFIX,mypikpak.com
+
+# openai
+DOMAIN-SUFFIX,openai.com
